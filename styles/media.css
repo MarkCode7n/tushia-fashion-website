@@ -1,0 +1,18 @@
+@media(min-width:500px) {
+
+    .nav-header-sect,
+    .nav-header {
+        width: 400px;
+    }
+}
+
+@media(min-width:500px) {
+    .categ-cards-container {
+        display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+    .filter-categ-container .categ-cards-container .card {
+        width: 19em;
+    }
+}
